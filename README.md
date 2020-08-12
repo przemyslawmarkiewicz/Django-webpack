@@ -1,2 +1,2 @@
 # Django-webpack
-Testing webpack with django to manage assets
+Learning webpack to manage assets in django application
